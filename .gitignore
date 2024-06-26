@@ -1,0 +1,5 @@
+.*
+!/.gitignore
+__pycache__
+output
+downloader_credentials.py
